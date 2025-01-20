@@ -50,15 +50,19 @@ i{
 
 
 .text-1{
-    border: 1px solid blue;
+   border: 1px solid #315fe9;
     width: fit-content;
-    padding: 8px 15px;
-    border-radius: 2px;
-    color: blue;
+    border-radius: .23rem;
+    line-height: 1.5;
+    font-size: .9rem;
+    padding: 6px 15px;
+    color: #315fe9;
     cursor: pointer;
     position: absolute;
     right: 0;
     margin-right: 20px;
+    font-weight: 700;
+    transition: .8s ease;
 }
 
 .text-1:hover{
@@ -67,7 +71,7 @@ i{
 
 .broc{
     position: absolute;
-    right: 150px;
+    right: 170px;
     bottom: 15px;
     height: 53%;
     padding: 7px;
