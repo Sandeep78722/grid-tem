@@ -473,8 +473,12 @@ i{
         grid-column: 5/8;
     }
 
-    .item-15{
-        grid-column: ;
+   .item-15{
+        grid-row: 8/38;
+    }
+
+    .item-16{
+        grid-row: 8/38;
     }
 
 
